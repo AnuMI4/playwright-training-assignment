@@ -1,0 +1,30 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://10.0.0.113:8084",
+      "localStorage": [
+        {
+          "name": "isLoggedIn",
+          "value": "yes"
+        },
+        {
+          "name": "AuthenticationMode",
+          "value": "Form"
+        },
+        {
+          "name": "config",
+          "value": "{\"environment\":\"QA\",\"environment_keys\":{\"client_id\":\"Wjw5xjjyrwGKTU2vAYWn1sb70YiLpSGD\",\"client_secret\":\"SEgEBhaVMkn4X0Wq\",\"redirect_uri\":\"http://10.0.0.113:8084\",\"token_url\":\"https://api-development.exeloncorp.com/oauth2/v1_10Pearls_Integration/authorize\",\"formlogin_client_id\":\"Nvf5HDOBGeawQoSr74WQioAaVGIpRk4q\",\"formlogin_client_secret\":\"xOTDwtnBsUlAO6Vv\",\"base_url\":\"/api/\",\"constellation_hmac_secret\":\"WLUEWeL3so2hdHhHM5ZYnvzsOUBzSGH4+T3EgrQ91KI=\",\"constellation_hmac_app_id\":\"65d3a4f0-0239-404c-8394-21b94ff50604\"}}"
+        },
+        {
+          "name": "authToken",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI2IiwicHJlZmVycmVkX3VzZXJuYW1lIjoiYXV0by5zYSIsImRvbWFpbiI6IiIsIm5iZiI6MTY2NTk0NjYyNywiZXhwIjoxNjY2MDMzMDI3LCJpYXQiOjE2NjU5NDY2MjcsImlzcyI6Imh0dHBzOi8vZXhkZXYucHQtc3RhZ2luZy5jb20iLCJhdWQiOiJodHRwczovL2V4ZGV2LnB0LXN0YWdpbmcuY29tIn0.KOwwQ_BlF1EtQn5RL_pHJIpLdf5R9MZKESDG0YQyBEw"
+        },
+        {
+          "name": "refreshToken",
+          "value": "NJKQSiDY873Ig7v18pqxffkqyLGconTtOsAS/h6z7/oYq8rlxwDWFvB7FX3l13d4"
+        }
+      ]
+    }
+  ]
+}
